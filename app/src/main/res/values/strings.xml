@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebasePhoneAuth</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_to_your_profile">Welcome to Your Profile</string>
+    <string name="may_i_ask_you_phone_number">May I ask you phone number?</string>
+
+
+</resources>
